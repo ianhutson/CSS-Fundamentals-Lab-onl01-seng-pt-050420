@@ -19,3 +19,9 @@ details {
   display: block;
   float: left;
 }
+
+div {
+  background-color: #000000;
+  text-align: center;
+  width: 25%;
+}
