@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="relative path to CSS file">
+<link rel="stylesheet" href="./style.css">
 body {
   width: 100%;
   height: 100%;
