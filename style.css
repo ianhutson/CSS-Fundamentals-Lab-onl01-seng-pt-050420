@@ -16,5 +16,6 @@ a {
   background-color: #000000
 }
 details {
-  
+  display: block;
+  float: left;
 }
